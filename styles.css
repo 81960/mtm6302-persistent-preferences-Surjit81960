@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.list-group-numbered {
+    list-style-type: decimal;
+}
+
+.custom-list {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+body.light {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.dark {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+body.blue {
+    background-color: #007bff;
+    color: #ffffff;
+}
